@@ -158,9 +158,10 @@ export default function Home() {
         <meta name="description" content="Password Generator powered by Filippo Erbisti" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
-        <Script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" crossOrigin='anonymous' />
-        <Script src="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap" crossOrigin='anonymous' />
       </Head>
+      <Script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" crossOrigin='anonymous' />
+      <Script src="https://fonts.googleapis.com/css?family=Montserrat&amp;display=swap" crossOrigin='anonymous' />
+    
       <main>
         <div className="container">
           <h2 className="title">Password Generator</h2>
